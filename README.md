@@ -1,2 +1,7 @@
-# Week-6-SQL-homework
-This file contains the .sql file for the homework exercise.
+## Week-6-SQL-homework
+Brief descriptions of:
+
+Relational Database Management System (RDBMS)
+
+Structured Query Language (SQL)
+
