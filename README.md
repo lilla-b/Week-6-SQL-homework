@@ -9,5 +9,6 @@ What is SQL?
 
 SQL originated in 1974. It’s an American National Standards Institute (ANSI) standard computer language for performing operations on a relational database. SQL commands are used for data definition (CREATE, ALTER, DROP), data manipulation (SELECT, INSERT, UPDATE, DELETE), and data control (GRANT, REVOKE). With SQL, users can access, describe, define, and manipulate data in a RDBMS. Furthermore, one can store a procedure or routine or set of functions, and also set permissions on query products (e.g. tables, views, etc.). SQL is simple and easy to understand.
 
+<img width="586" alt="Screen Shot 2021-11-17 at 9 16 20 AM" src="https://user-images.githubusercontent.com/79848763/142227839-302d9589-ec94-48c1-abbe-cf7ef486a2a2.png">
 
 
